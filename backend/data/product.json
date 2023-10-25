@@ -1,0 +1,18 @@
+[
+    {
+        "name": "second hand shirt",
+        "price": "299.00",
+        "description": "second hand shirt description lorum ipsum",
+        "ratings": 4,
+        "images": [{
+            "public_id" : "Men's T-Shirts/agwsfovddxfjtsck9d7o",
+            "url" : "https://res.cloudinary.com/goganja/image/upload/v1698205283/Men%27s%20T-Shirts/agwsfovddxfjtsck9d7o.jpg"
+        }],
+        "category": "Mens",
+        "seller": "Thrifty",
+        "stock": 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    }
+
+]
