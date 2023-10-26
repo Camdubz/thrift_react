@@ -2,16 +2,61 @@
     {
         "name": "second hand shirt",
         "price": "299.00",
-        "description": "second hand shirt description lorum ipsum",
+        "description": "Second hand shirt description lorum ipsum",
         "ratings": 4,
         "images": [{
-            "public_id" : "Men's T-Shirts/agwsfovddxfjtsck9d7o",
-            "url" : "https://res.cloudinary.com/goganja/image/upload/v1698205283/Men%27s%20T-Shirts/agwsfovddxfjtsck9d7o.jpg"
+            "public_id" : "Men's/olb0nxqv45b3uvty9o5u",
+            "url" : "https://res.cloudinary.com/goganja/image/upload/v1698274684/Men%27s/olb0nxqv45b3uvty9o5u.jpg"
         }],
         "category": "Mens",
         "seller": "Thrifty",
         "stock": 50,
         "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name": "second hand shirt",
+        "price": "5.00",
+        "description": "Second hand shirt description lorum ipsum",
+        "ratings": 4.5,
+        "images": [{
+            "public_id" : "Woman's/ppvxsy6srn7xhf454vmg",
+            "url" : "https://res.cloudinary.com/goganja/image/upload/v1698274794/Woman%27s/ppvxsy6srn7xhf454vmg.png"
+        }],
+        "category": "Womans",
+        "seller": "Thrifty",
+        "stock": 50,
+        "numOfReviews" : 33,
+        "reviews": []
+    },
+    {
+        "name": "Second hand pants boys",
+        "price": "5.00",
+        "description": "second hand shirt description lorum ipsum",
+        "ratings": 4.5,
+        "images": [{
+            "public_id" : "Boys/ebi4znabuqgfale85elm",
+            "url" : "https://res.cloudinary.com/goganja/image/upload/v1698275010/Boys/ebi4znabuqgfale85elm.jpg"
+        }],
+        "category": "Boys",
+        "seller": "Thrifty",
+        "stock": 50,
+        "numOfReviews" : 33,
+        "reviews": []
+    },
+    {
+        "name": "Second hand baby shirt girls",
+        "price": "5.00",
+        "description": "second hand shirt description lorum ipsum",
+        "ratings": 4.5,
+        "images": [{
+            "public_id" : "Baby/d7yz9vw32ncoaolomtug",
+            "url" : "https://res.cloudinary.com/goganja/image/upload/v1698275195/Baby/d7yz9vw32ncoaolomtug.jpg"
+        }],
+        "category": "Baby",
+        "seller": "Thrifty",
+        "stock": 50,
+        "numOfReviews" : 33,
         "reviews": []
     }
 
